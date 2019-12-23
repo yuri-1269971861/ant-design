@@ -11,7 +11,7 @@ title:
 
 ## en-US
 
-Customize message display duration from default `3s` to `10s`.
+Customize message display duration from default `s` to `2s`.
 
 ```jsx
 import { message, Button } from 'antd';
